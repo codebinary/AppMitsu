@@ -1,4 +1,6 @@
 default_index:
-    path:     /
+    path:     /v1
     defaults: { _controller: ApiBundle:Default:index }
     methods: POST
+
+
